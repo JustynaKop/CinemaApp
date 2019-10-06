@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CinemaApp/static/css/main.1887c979.chunk.css",
+    "main.js": "/CinemaApp/static/js/main.0da495a4.chunk.js",
+    "main.js.map": "/CinemaApp/static/js/main.0da495a4.chunk.js.map",
+    "runtime-main.js": "/CinemaApp/static/js/runtime-main.2dc9791e.js",
+    "runtime-main.js.map": "/CinemaApp/static/js/runtime-main.2dc9791e.js.map",
+    "static/css/2.3789fda8.chunk.css": "/CinemaApp/static/css/2.3789fda8.chunk.css",
+    "static/js/2.385daeeb.chunk.js": "/CinemaApp/static/js/2.385daeeb.chunk.js",
+    "static/js/2.385daeeb.chunk.js.map": "/CinemaApp/static/js/2.385daeeb.chunk.js.map",
+    "index.html": "/CinemaApp/index.html",
+    "precache-manifest.350ac6649e7cee2a5554cce7912cf19f.js": "/CinemaApp/precache-manifest.350ac6649e7cee2a5554cce7912cf19f.js",
+    "service-worker.js": "/CinemaApp/service-worker.js",
+    "static/css/2.3789fda8.chunk.css.map": "/CinemaApp/static/css/2.3789fda8.chunk.css.map",
+    "static/css/main.1887c979.chunk.css.map": "/CinemaApp/static/css/main.1887c979.chunk.css.map",
+    "static/media/slick-theme.css": "/CinemaApp/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dc9791e.js",
+    "static/css/2.3789fda8.chunk.css",
+    "static/js/2.385daeeb.chunk.js",
+    "static/css/main.1887c979.chunk.css",
+    "static/js/main.0da495a4.chunk.js"
+  ]
+}
