@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Screenshots:
+1. Choosing movie:
+![](public/res.png)
+
+2. Responsive layout:
+![](public/layout.png)
+
+3. Functionalities:
+![](public/ResDet.png)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
