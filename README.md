@@ -5,7 +5,7 @@ Screenshots:
 ![](public/res.png)
 
 2. Responsive layout:
-![](public/layout.png)
+![](public/Layout.png)
 
 3. Functionalities:
 ![](public/ResDet.png)
