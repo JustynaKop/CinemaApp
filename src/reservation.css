@@ -1,0 +1,38 @@
+ .reservation-container {
+    width:50%;
+    margin:0 auto;
+  }
+  .reservation-wrapper{
+    display:flex;
+    width:100%;
+    justify-content:center;
+  }
+
+  .total-price{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width:100%;
+    text-align: center;
+    color: orange;
+    font-weight: bold;
+  }
+
+  .reservation-input-container {
+    margin-top: 10px
+  }
+
+  .reservation-input {
+    width:100%;
+  }
+
+  .reservation-error-text {
+    color: red;
+    font-size: 0.6 rem;
+    margin-top: 0;
+  }
+
+  @media (max-width: 600px){
+    .reservation-container{
+        width:90%; 
+    }
+}

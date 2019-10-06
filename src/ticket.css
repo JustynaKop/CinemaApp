@@ -1,0 +1,40 @@
+.ticket-table-details{ 
+    padding:5%;
+    width:100%;
+    margin:10px auto;
+    text-align: center;
+}
+
+.ticket-input{
+    width:4em;
+    height:2em;
+}
+
+.ticket-table{
+    display:flex;
+    width:100%;  
+}
+
+.ticket-table-header {
+    font-size: 1.3rem;
+    color: orange;
+    font-weight: bold;
+}
+
+.ticket-container{
+    margin:0 auto;
+    width:auto;
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.ticket-table-td {
+    border-bottom:1px dotted darkblue;
+    height:60px;
+}
+
+.ticket-buttons{
+    display:flex;
+    width:100%;
+    justify-content:center;
+}

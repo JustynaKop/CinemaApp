@@ -1,0 +1,65 @@
+.movie-container {
+    background: linear-gradient(0deg, rgba(64,63,63,1) 0%, rgba(85,84,84,1) 30%, rgba(85,84,84,1) 70%, rgba(64,63,63,1) 100%);
+    padding: 1vw;
+    
+    color: white;
+    text-align: left;
+    margin: 1%;
+    min-height: 95vh;
+    -webkit-user-select: text; /* Safari */        
+    -moz-user-select: text; /* Firefox */
+    -ms-user-select: text; /* IE10+/Edge */
+    user-select: text; /* Standard */
+}
+
+.movie-data-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image-poster-container {
+    flex-grow: 1;
+    width: 45%;
+    min-width: 200px;
+    max-width: 300px;
+    margin-right: 1vw;
+    margin-bottom: 1rem;
+}
+
+.image-poster {
+    display: block;
+    flex-grow: 2;
+    width: 100%;
+    height: auto;
+}
+
+.movie-details-container {
+    flex-grow: 1;
+    width: 45%;
+    min-width: 200px;
+    max-width: 300px;
+}
+
+.date-header {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.hour-header {
+    margin-bottom: 0;
+}
+
+.reservation-button {
+    display : block; 
+    height: 40px;
+    margin-top: 10px;
+    float: right;
+    background:#f70661;
+    color:#fff;
+    border: 0;
+    cursor:pointer;
+}
+
+.movie-details-text {
+    color: gray
+}
