@@ -23,6 +23,7 @@
     grid-column-gap: 2px;
     grid-row-gap: 2px;
     max-height: 80vh;
+    min-height: 200px;
 }
 
 .seat {

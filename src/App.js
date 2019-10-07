@@ -144,16 +144,17 @@ class App extends React.Component {
       slidesToShow: 3,
       slidesToScroll: 1,
       slidesPerRow: 1,
+      swipeToSlide: true,
       responsive: [
         {
-          breakpoint: 1500,
+          breakpoint: 1750,
           settings: {
             slidesToShow: 2,
             slidesToScroll: 1,
           }
         },
         {
-          breakpoint: 1000,
+          breakpoint: 1100,
           settings: {
             slidesToShow: 1,
             slidesToScroll: 1,
